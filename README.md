@@ -4,7 +4,7 @@
 ## Application
 ### Front-End
 
-The front-end application will handle de User Interface and communicate trought Socket.IO with the node server.
+The front-end application will handle the User Interface and communicate trought Socket.IO with the node server.
 
 Instead the Client-side request an new message from a group or multiple-groups, the APPLICATION will PUSH new content to UI, providing less requests and more async communication.
 
